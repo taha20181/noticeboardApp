@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">NoticeBoardApp</string>
+
+    <string-array name="LoginType">
+        <item>--Select Login--</item>
+        <item>Student</item>
+        <item>Proferssor</item>
+        <item>HOD</item>
+    </string-array>
+
+    <string-array name="UserType">
+        <item>--Select User--</item>
+        <item>Professor</item>
+        <item>Student</item>
+    </string-array>
+
+    <string-array name="NoticeType">
+        <item>--Select Notice Type--</item>
+        <item>Faculty</item>
+        <item>Student</item>
+    </string-array>
+</resources>
